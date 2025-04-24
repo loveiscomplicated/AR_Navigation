@@ -75,7 +75,9 @@
 
 - 프로젝트 관리자: [loveiscomplicated]
 - 문의: loveiscomplicated@yonsei.ac.kr
+- 해당 프로젝트의 구체적인 내용을 보려면 https://www.notion.so/1dffd7b93d1b80bca654d4c9b010e70c?v=1dffd7b93d1b8052b173000c1737f5bd&pvs=4 을 방문해주세요 !
 
+---
 # 👵📱 AR Path Guide – Outdoor AR Navigation App for Seniors
 
 > A real-time **AR navigation app** designed to help elderly users  
@@ -153,5 +155,5 @@ Ideas, issues, and contributions are always welcome!
 
 - Maintainer: [loveiscomplicated]  
 - Contact: loveiscomplicated@yonsei.ac.kr
-
+- to see the details of this repo, please visit https://www.notion.so/1dffd7b93d1b80bca654d4c9b010e70c?v=1dffd7b93d1b8052b173000c1737f5bd&pvs=4.
 
